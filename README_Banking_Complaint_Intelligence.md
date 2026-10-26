@@ -57,4 +57,16 @@ fabric-bank-complaints-rag/
 
 ## Author
 
-Your Name
+Suresh Gadi
+
+AI | Azure | Microsoft Fabric | Data Engineering | PySpark | SQL | Power BI | Generative AI
+
+📌 Open to opportunities in:
+
+Data Engineering
+
+Microsoft Fabric Engineering
+
+Azure Data Engineering
+
+AI & Analytics Engineering
